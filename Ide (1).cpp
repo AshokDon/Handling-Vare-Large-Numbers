@@ -1,3 +1,8 @@
+//big integers 
+//long long int can stroe 10^18
+//what if the number have 200 digits
+//we use a concept of vector
+//
 #include <bits/stdc++.h>
 using namespace std;
 void multiple(int *a , int &n ,int no){
